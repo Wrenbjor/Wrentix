@@ -1,0 +1,17 @@
+{
+    "name": "WCRStudios/wrentix",
+    "description": "Open source ticking system",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Wayne Renbjor",
+            "email": "wrenbjor@gmail.com"
+        }
+    ],
+    "require-dev": {
+    },
+    "require": {
+        "phing/phing": "2.7.0"
+    }
+}
