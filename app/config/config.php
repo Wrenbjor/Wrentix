@@ -3,9 +3,9 @@
 return new \Phalcon\Config(array(
 	'database' => array(
 		'adapter'  => 'Mysql',
-		'host'     => '192.168.56.101',
-		'username' => 'wrentix_admin',
-		'password' => '#T1x@dm1n#',
+		'host'     => '',
+		'username' => '',
+		'password' => '',
 		'name'     => 'wrentix',
 	),
 	'application' => array(
